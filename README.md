@@ -1,16 +1,16 @@
 # TASK-REPOSITORY
-📘 Deskripsi Proyek (Panjang)
+**📘 Deskripsi**
 ------------
-Proyek ini merupakan implementasi Python sederhana namun fungsional yang bertujuan untuk menggabungkan dua konsep penting dalam perhitungan kalender: penentuan tahun kabisat dan penghitungan hari dalam seminggu dari suatu tanggal menggunakan Zeller’s Congruence. Program ini tidak hanya dirancang sebagai alat bantu perhitungan, tetapi juga sebagai sarana edukatif yang menjelaskan secara eksplisit logika yang digunakan dalam menentukan validitas tahun kabisat dan algoritma matematika kalender.
+Tugas ini merupakan implementasi Python sederhana namun fungsional yang bertujuan untuk menggabungkan dua konsep penting dalam perhitungan kalender: penentuan tahun kabisat dan penghitungan hari dalam seminggu dari suatu tanggal menggunakan Zeller’s Congruence. Program ini tidak hanya dirancang sebagai alat bantu perhitungan, tetapi juga sebagai sarana edukatif yang menjelaskan secara eksplisit logika yang digunakan dalam menentukan validitas tahun kabisat dan algoritma matematika kalender.
 
-Fitur Utana
+**Fitur Utana**
 ---------
 - Membuktikan inputan tanggal, bulan dan tahun
 - Melacak apakah tahun adalah tahun kabisat
 - Mengonversikan tanggal ke hari (Senin-Minggu) menggunakan rumus klasik Zeller
 - Validasi input dasar (dapat dikembangkan lebih lanjut)
 
-Logika Program
+**Logika Program**
 -------------
 1. **Fungsi is_kabisat (tahun)**
    Menunjukan apakah tahun tersebut adalah tahun kabisat:
@@ -48,5 +48,16 @@ Logika Program
    Menggunakan algoritma Zeller's Congruence untuk menentukan nama hari dari sebuah tanggal:
    - Algoritma yang mengubah tanggal menjadi indeks hari (0–6), lalu disusun ke nama hari seperti "Senin", "Selasa", dst.
      
-![image](https://github.com/user-attachments/assets/384474e8-a912-4a11-a733-31ee4afb4f8c)
+![image](https://github.com/user-attachments/assets/4d104af1-1e28-462b-b91b-f9242e259831)
+
+6. Program
+
+![image](https://github.com/user-attachments/assets/d2901f2c-d7d4-4bf8-96f1-e4b6fe36ae71)
+
+**Hasil**
+----------
+
+![image](https://github.com/user-attachments/assets/af02da7f-28da-4e52-b93e-ced18c27f8fd)
+
+
 

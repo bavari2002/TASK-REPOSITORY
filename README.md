@@ -47,4 +47,6 @@ Logika Program
 5. **Fungsi zeller_congruence(tanggal, bulan, tahun)**
    Menggunakan algoritma Zeller's Congruence untuk menentukan nama hari dari sebuah tanggal:
    - Algoritma yang mengubah tanggal menjadi indeks hari (0–6), lalu disusun ke nama hari seperti "Senin", "Selasa", dst.
-   
+     
+   ![image](https://github.com/user-attachments/assets/384474e8-a912-4a11-a733-31ee4afb4f8c)
+

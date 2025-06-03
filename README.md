@@ -26,6 +26,7 @@ Logika Program
    - Jika bulan adalah Februari (2), maka jumlah harinya adalah 29 atau 28
    - Sedangkan bulan April (4), Juni (6), September (9) dan November (11) jumlah harinya adalah 30
    - Selain yang diatas maka jumlah hari tersebut adalah 31
+   
   ![image](https://github.com/user-attachments/assets/fdbde3ec-6770-4517-af4e-7d013a105e28)
 
 3. **Fungsi enter_number**

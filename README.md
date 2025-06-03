@@ -19,6 +19,7 @@ Logika Program
    Contoh:
       2024 -> Tahun Kabisat
       2011 -> Bukan tahun Kabisat
+     
   ![image](https://github.com/user-attachments/assets/65c2bbb9-753a-49d2-bd01-9ad674fa7677)
 
 2. **Fungsi numberof_day_in_month (bulan, tahun)**
@@ -33,12 +34,14 @@ Logika Program
    Meminta untuk memasukkan angka:
    - Harus berupa angka (int)
    - Harus berada dalam batas minimal dan maksimal
+     
   ![image](https://github.com/user-attachments/assets/ef48e14c-8b9c-41e4-99c4-ebb6003c2da9)
 
 4. **Fungsi validate_input()**
    Menerima input tanggal, bulan, dan tahun dari user:
    - Harus memastikan bahwa data yang di input, termasuk tanggal, bulan dan tahun adalah valid.
    - Jika tanggal tersebut melebihi dari jumlah hari pada bulan tertentu maka diminta dari awal sampai valid
+     
    ![image](https://github.com/user-attachments/assets/988c3f9e-b993-44d1-8aba-86b19a518a05)
 
 5. **Fungsi zeller_congruence(tanggal, bulan, tahun)**

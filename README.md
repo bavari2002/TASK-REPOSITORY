@@ -13,6 +13,7 @@ Tugas ini merupakan implementasi Python sederhana namun fungsional yang bertujua
 **Logika Program**
 -------------
 1. **Fungsi is_kabisat (tahun)**
+   
    Menunjukan apakah tahun tersebut adalah tahun kabisat:
    - Jika tahun yang habis dibagi 4,
    - jika habis dibagi 100 harus juga habis dibagi 400 -> Jadikan Kabisat
@@ -23,6 +24,7 @@ Tugas ini merupakan implementasi Python sederhana namun fungsional yang bertujua
   ![image](https://github.com/user-attachments/assets/65c2bbb9-753a-49d2-bd01-9ad674fa7677)
 
 2. **Fungsi numberof_day_in_month (bulan, tahun)**
+   
    Mengembalikan jumlah hari dalam bulan tersebut:
    - Jika bulan adalah Februari (2), maka jumlah harinya adalah 29 atau 28
    - Sedangkan bulan April (4), Juni (6), September (9) dan November (11) jumlah harinya adalah 30
@@ -31,6 +33,7 @@ Tugas ini merupakan implementasi Python sederhana namun fungsional yang bertujua
   ![image](https://github.com/user-attachments/assets/fdbde3ec-6770-4517-af4e-7d013a105e28)
 
 3. **Fungsi enter_number**
+   
    Meminta untuk memasukkan angka:
    - Harus berupa angka (int)
    - Harus berada dalam batas minimal dan maksimal
@@ -38,6 +41,7 @@ Tugas ini merupakan implementasi Python sederhana namun fungsional yang bertujua
   ![image](https://github.com/user-attachments/assets/ef48e14c-8b9c-41e4-99c4-ebb6003c2da9)
 
 4. **Fungsi validate_input()**
+   
    Menerima input tanggal, bulan, dan tahun dari user:
    - Harus memastikan bahwa data yang di input, termasuk tanggal, bulan dan tahun adalah valid.
    - Jika tanggal tersebut melebihi dari jumlah hari pada bulan tertentu maka diminta dari awal sampai valid

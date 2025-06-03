@@ -42,11 +42,11 @@ Logika Program
    - Harus memastikan bahwa data yang di input, termasuk tanggal, bulan dan tahun adalah valid.
    - Jika tanggal tersebut melebihi dari jumlah hari pada bulan tertentu maka diminta dari awal sampai valid
      
-   ![image](https://github.com/user-attachments/assets/988c3f9e-b993-44d1-8aba-86b19a518a05)
+![image](https://github.com/user-attachments/assets/988c3f9e-b993-44d1-8aba-86b19a518a05)
 
 5. **Fungsi zeller_congruence(tanggal, bulan, tahun)**
    Menggunakan algoritma Zeller's Congruence untuk menentukan nama hari dari sebuah tanggal:
    - Algoritma yang mengubah tanggal menjadi indeks hari (0–6), lalu disusun ke nama hari seperti "Senin", "Selasa", dst.
      
-   ![image](https://github.com/user-attachments/assets/384474e8-a912-4a11-a733-31ee4afb4f8c)
+![image](https://github.com/user-attachments/assets/384474e8-a912-4a11-a733-31ee4afb4f8c)
 
